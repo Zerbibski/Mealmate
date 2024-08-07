@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238054735880",
+    "project_id": "meal-mate-a47dc",
+    "storage_bucket": "meal-mate-a47dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238054735880:android:63bf685d08e684f41191bd",
+        "android_client_info": {
+          "package_name": "com.meatmate.ethan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB74jmo80pz5V0C7iEmjUsnjYHTSlYiAoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
