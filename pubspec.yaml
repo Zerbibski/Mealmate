@@ -113,7 +113,6 @@ dependencies:
   twilio_flutter: ^0.3.0
   google_places_flutter: ^2.0.8
   supabase_flutter: ^2.5.4
-  kosher_dart: ^2.0.16
   flutter_gemini: ^2.0.4
   flutter_keyboard_visibility: ^6.0.0
   logger: ^2.3.0
